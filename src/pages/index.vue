@@ -183,7 +183,7 @@ const projects = [
     gif: "portal/portal.gif",
     description:
       "A magical animated portal scene demonstrating shader-based materials, custom geometries, and particle glow effects in Three.js. It uses noise functions and time-based uniforms to create a dynamic swirling energy effect around the portal opening.",
-    preview: "https://3js-build.vercel.app/portal",
+    preview: "https://3js-build.vercel.app/builds/52-portal.html",
     title: "Portal Scene",
   },
   {
